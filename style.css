@@ -7,7 +7,7 @@ body {
 h1 {
     color: #316631; /* Kolor nagłówka */
     font-size: 30px; /* Rozmiar czcionki nagłówka */
-    font-family: Comic , Sans MS, cursive, serif; /* Rodzina czcionek używana w nagłówku */
+    font-family: Comic Sans MS, cursive, sans-serif; /* Rodzina czcionek używana w nagłówku */
     text-align: center; /* Wyrównanie tekstu nagłówka do środka */
     animation: color-change 5s infinite; /* Animacja zmiany koloru co 5 sekund */
 }
