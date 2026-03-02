@@ -5,7 +5,7 @@ body {
     color: #333333; /* Kolor tła strony internetowej*/
     #paragraph2 {
         font-size: 14px; /* Rozmiar czcionki dla elementu o id "paragraph2" */
-        color: #555555; /* Kolor tekstu dla elementu o id "paragraph2" */
+        color: #4400ff; /* Kolor tekstu dla elementu o id "paragraph2" */
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Rodzina czcionek dla elementu o id "paragraph2" */
     } 
 }
