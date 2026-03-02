@@ -2,7 +2,12 @@ body {
     font-family: Arial,  sans-serif; /* Rodzina czcionek */
     font-size: 11px; /* Rozmiar głównej czcionki w <p></p> tag  */
     background-color: #8427d1; /* Kolor tła strony internetowej */
-    color: #333333; /* Kolor tła strony internetowej*/ 
+    color: #333333; /* Kolor tła strony internetowej*/
+    #paragraph2 {
+        font-size: 14px; /* Rozmiar czcionki dla elementu o id "paragraph2" */
+        color: #555555; /* Kolor tekstu dla elementu o id "paragraph2" */
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Rodzina czcionek dla elementu o id "paragraph2" */
+    } 
 }
 h1 {
     color: #316631; /* Kolor nagłówka */
